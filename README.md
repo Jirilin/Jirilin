@@ -1,74 +1,112 @@
 Hi, I’m Jirilin 👋
 
-MSc Artificial Intelligence Graduate | Machine Learning · AI · Software Engineering
+MSc Artificial Intelligence Graduate | AI/ML · Software Engineering · Data
 
-I recently completed an MSc in Artificial Intelligence at Oxford Brookes University, where my work focused on machine learning, continual learning, data analysis and software development.
+I build software and machine learning projects with a focus on practical problem-solving, reproducible experimentation and clear engineering.
 
-My main academic work explored continual semi-supervised learning from streaming data, with a focus on learning from evolving data while making use of both labelled and unlabelled samples.
+I recently completed an MSc in Artificial Intelligence at Oxford Brookes University, where my dissertation investigated Continual Semi-Supervised Learning from Streaming Data.
 
-I use GitHub to document projects where the implementation, experiments and engineering decisions can be inspected — not just the final result.
+My work spans machine learning, data analysis, Python automation, API integration and web development.
 
-Featured Work
+⸻
 
-Continual Semi-Supervised Learning from Streaming Data
+🔬 Featured Projects
 
-MSc dissertation project investigating continual learning from evolving data streams using semi-supervised learning techniques.
+🧠 Continual Semi-Supervised Learning from Streaming Data
 
-Focus: Continual Learning · Semi-Supervised Learning · Neural Networks · Streaming Data · Experimental Evaluation
+My MSc Artificial Intelligence dissertation exploring how machine learning systems can continue learning from evolving data streams when only part of the incoming data is labelled.
 
-Health and Economic Inequality Across England
+Focus: Continual Learning · Semi-Supervised Learning · Streaming Data · Neural Networks · Experimental Evaluation
 
-Data analysis project investigating relationships between deprivation, health outcomes and economic participation across England.
+View Repository
 
-Focus: Python · Pandas · Data Analysis · Data Cleaning · Visualisation · Statistical Analysis
+⸻
 
-Rota to Calendar Automator
+📅 Rota to Calendar Automator
 
-Python automation project designed to extract rota information and convert it into calendar events.
+A Python automation pipeline that reads rota images using OCR, extracts shift information and creates structured Google Calendar events.
 
-Focus: Python · OCR · Tesseract · Google Calendar API · Automation
+Technologies: Python · Tesseract OCR · Google Calendar API
 
-Vinma Dental Care
+View Repository
 
-Web project developed for a dental-care use case.
+⸻
 
-Focus: Web Development · HTML · Front-End Development
+📊 Health and Economic Inequality Across England
 
-Technical Skills
+A data-analysis project examining relationships between deprivation, health outcomes and economic participation across England.
+
+Focus: Data Cleaning · Statistical Analysis · Data Visualisation · Socioeconomic Analysis
+
+View Repository
+
+⸻
+
+🌐 Vinma Dental Care Website
+
+A responsive website developed for a dental-care use case, focusing on clear service presentation and accessible navigation.
+
+View Repository
+
+⸻
+
+🛠 Technical Skills
 
 Programming
-Python · Java · SQL
+
+Python · Java · JavaScript · SQL · C
 
 AI & Machine Learning
-Machine Learning · Neural Networks · Continual Learning · Semi-Supervised Learning · Data Analysis
 
-Python/Data
-Pandas · NumPy · Matplotlib
+Machine Learning · Deep Learning · Neural Networks · Semi-Supervised Learning · Continual Learning · Speech Processing
 
-Development
-Git · GitHub · REST APIs · Software Development
+Data
 
-Tools
-Google Colab · Jupyter · SQLite · Microsoft 365
+Data Analysis · Data Cleaning · Statistical Analysis · Data Visualisation
 
-**Currently Improving**
+Software & Automation
 
-I am currently strengthening my portfolio in:
+Object-Oriented Programming · Software Testing · API Integration · Tesseract OCR · Google Calendar API
 
-* production-oriented ML engineering
-* API development
-* automated testing and CI/CD
-* Docker and deployment
-* software engineering design practices
+Web & Tools
 
-What I’m Looking For
+HTML · CSS · Node.js · MongoDB · Git · GitHub
+
+⸻
+
+🔭 What I’m Working On
+
+I’m currently strengthening my engineering portfolio around:
+
+* production-oriented machine learning
+* REST API development
+* automated testing
+* Docker
+* CI/CD
+* model deployment and reproducibility
+
+⸻
+
+📚 Research
+
+Emotion Recognition Using Speech Processing
+
+Published research applying MFCC-based speech features and neural-network methods to emotion classification.
+
+My MSc research subsequently focused on continual semi-supervised learning for evolving data streams.
+
+⸻
+
+🎯 Career Focus
 
 I’m interested in graduate and junior opportunities across:
 
-Artificial Intelligence · Machine Learning · Software Engineering
+Artificial Intelligence · Machine Learning · Software Engineering · Data
 
-particularly roles where I can combine ML knowledge with practical software development.
+I am particularly interested in roles that combine machine-learning knowledge with practical software engineering.
 
-Connect
+⸻
 
-LinkedIn
+🤝 Connect
+
+LinkedIn · GitHub
