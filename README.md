@@ -18,7 +18,7 @@ My MSc Artificial Intelligence dissertation exploring how machine learning syste
 
 Focus: Continual Learning · Semi-Supervised Learning · Streaming Data · Neural Networks · Experimental Evaluation
 
-View Repository
+https://github.com/Jirilin/CS-SLSD.git
 
 ⸻
 
@@ -28,7 +28,7 @@ A Python automation pipeline that reads rota images using OCR, extracts shift in
 
 Technologies: Python · Tesseract OCR · Google Calendar API
 
-View Repository
+https://github.com/Jirilin/Calandar-Automation.git
 
 ⸻
 
@@ -38,7 +38,7 @@ A data-analysis project examining relationships between deprivation, health outc
 
 Focus: Data Cleaning · Statistical Analysis · Data Visualisation · Socioeconomic Analysis
 
-View Repository
+https://github.com/Jirilin/health-economic-inequality-england.git
 
 ⸻
 
@@ -46,7 +46,7 @@ View Repository
 
 A responsive website developed for a dental-care use case, focusing on clear service presentation and accessible navigation.
 
-View Repository
+https://github.com/Jirilin/Vinma.git
 
 ⸻
 
@@ -109,4 +109,4 @@ I am particularly interested in roles that combine machine-learning knowledge wi
 
 🤝 Connect
 
-LinkedIn · GitHub
+LinkedIn: www.linkedin.com/in/jirilin-suresh-babu-rajan-6a2b49249 · GitHub: https://github.com/Jirilin
