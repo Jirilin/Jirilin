@@ -51,7 +51,7 @@ Git · GitHub · REST APIs · Software Development
 Tools
 Google Colab · Jupyter · SQLite · Microsoft 365
 
-Currently Improving
+**Currently Improving**
 
 I am currently strengthening my portfolio in:
 
